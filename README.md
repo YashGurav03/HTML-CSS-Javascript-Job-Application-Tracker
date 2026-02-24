@@ -47,10 +47,10 @@ JobTracker is a sleek and interactive web app designed to help users efficiently
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](assets/screenshot-dashboard.png)
+![Dashboard Screenshot](./assets/screenshort-dashboard.png)
 
 ### Add Job Form
-![Add Job Form](assets/screenshot-form.png)
+![Add Job Form](./assets/screenshort-form.png)
 
 ### Dark Mode
-![Dark Mode Screenshot](assets/screenshot-dark.png)
+![Dark Mode Screenshot](./assets/screenshort-dark.png)
